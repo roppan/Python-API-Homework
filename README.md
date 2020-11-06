@@ -1,1 +1,1 @@
-# Python-API-Homework
+A Python Script to perform a sentiment analysis of the Twitter activity of various news outlets and a visual presentation of the findings and a Pyton Script to vusualize the weather of 500+ cities across the world of varying distance from the equator, using the open wealther map API
